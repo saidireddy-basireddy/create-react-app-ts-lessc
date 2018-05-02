@@ -1,9 +1,9 @@
 import * as React from 'react';
 import * as styles from  './App.less';
 
-const logo = require('./logo.svg');
+import logo from './logo.svg';
 
-class App extends React.Component<null, null> {
+class App extends React.Component<{}, {}> {
   render() {
     return (
       <div className={styles.App}>
