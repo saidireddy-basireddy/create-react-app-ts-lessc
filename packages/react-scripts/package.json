@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-ts-lessc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Configuration and scripts for Create React App.",
   "repository": "wmonk/create-react-app",
   "license": "BSD-3-Clause",
@@ -38,7 +38,7 @@
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.24.0",
     "http-proxy-middleware": "0.17.3",
-    "jest": "^18.1.1",
+    "jest": "18.1.0",
     "json-loader": "0.5.4",
     "object-assign": "4.1.1",
     "postcss-loader": "1.2.2",
@@ -61,8 +61,8 @@
     "less-loader": "^2.2.3"
   },
   "devDependencies": {
-    "react": "15.4.2",
-    "react-dom": "15.4.2"
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   },
   "optionalDependencies": {
     "fsevents": "1.0.17"
